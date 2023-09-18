@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Samuel Abiodun</h1>
 <h3 align="center">A passionate, innovative and enthusiastic backend developer</h3>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samuel-abiodun1" height="30" width="40" />
-- 🔭 I’m currently working on **an SMS application**
 
-- 🌱 I’m currently learning **Django, Springboot and Node JS**
 
-- 👯 I’m currently on a collaborative project **a cleaning service application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamuelAbiodun-dev/SamuelAbiodun-dev](https://github.com/SamuelAbiodun-dev/SamuelAbiodun-dev)
 
