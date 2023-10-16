@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I find fun in music and creativity**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/samuel-abiodun1/</h3>
 <p align="left"> <img src= "https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <a href="https://linkedin.com/in/www.linkedin.com/in/samuel-abiodun1" target="blank"></a>
 </p>
